@@ -1,3 +1,3 @@
 ## Hi there 👋
 I am pasindu Pehesara Weerasekara
-I am a undergraduate student in university of Jaffna
+I am an undergraduate student in university of Jaffna
