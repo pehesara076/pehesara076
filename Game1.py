@@ -2,6 +2,8 @@ import numpy as np
 import time
 import sys
 
+#hoooo
+
 def thinking_animatiion(duration = 5):
     print("I'm thinking",end ="")
 
