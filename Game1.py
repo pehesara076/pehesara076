@@ -2,7 +2,7 @@ import numpy as np
 import time
 import sys
 
-def thinking_animatiion(duration = 5):
+thinking_animatiion(duration = 5):
     print("I'm thinking",end ="")
 
     for i in range(duration * 2):
